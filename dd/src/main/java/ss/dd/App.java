@@ -1,5 +1,4 @@
 package ss.dd;
-
 /**
  * Hello world!
  *
